@@ -7,7 +7,7 @@
         public function index(){
             $data = [];
 
-            $this->view('layouta', 'pages/index', $data);
+            $this->view('layout', 'pages/index', $data);
         }
     }
 ?>
