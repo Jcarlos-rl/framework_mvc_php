@@ -1,0 +1,11 @@
+{
+    "name": "carlos/public",
+    "authors": [
+        {
+            "name": "jc dev"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
